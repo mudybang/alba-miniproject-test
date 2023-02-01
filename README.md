@@ -2,10 +2,10 @@
 
 ##Test Point 1
 
-download & import from [mydocument/Alba_API_Sanctum.postman_collection.json]
+download & import from (/mydocument/Alba_API_Sanctum.postman_collection.json)
 
 Tree Capture
-![Screenshot](mydocuments/postman.png)
+![Screenshot](/mydocuments/postman.png)
 
 or visit
 
@@ -28,9 +28,9 @@ password    : 12345678
 - Click Check Status to get the "Payment Status"
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="mydocuments/01-subscription.jpg">
-  <source media="(prefers-color-scheme: light)" srcset="mydocuments/02-select-payment.jpg">
-  <source media="(prefers-color-scheme: light)" srcset="mydocuments/03-back-to-mc.jpg">
-  <source media="(prefers-color-scheme: light)" srcset="mydocuments/04-get_status.jpg">
+  <source media="(prefers-color-scheme: light)" srcset="/mydocuments/01-subscription.jpg">
+  <source media="(prefers-color-scheme: light)" srcset="/mydocuments/02-select-payment.jpg">
+  <source media="(prefers-color-scheme: light)" srcset="/mydocuments/03-back-to-mc.jpg">
+  <source media="(prefers-color-scheme: light)" srcset="/mydocuments/04-get_status.jpg">
 </picture>
 
