@@ -1,0 +1,7 @@
+.navbar-right{
+    margin-left: auto;
+}
+#user-dropdown{
+    position: absolute;
+    margin : 250px 0 0px -120px !important;
+}
