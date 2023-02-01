@@ -29,10 +29,8 @@ password    : 12345678
 - Click Checkout then Click Proccess then Midtrans Popup Payment Selection will Show UP(Back to Dashboard When Finish)
 - Click Check Status to get the "Payment Status"
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/mudybang/alba-miniproject-test/blob/main/mydocuments/01-subscription.jpg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/mudybang/alba-miniproject-test/blob/main/mydocuments/02-select-payment.jpg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/mudybang/alba-miniproject-test/blob/main/mydocuments/03-back-to-mc.jpg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/mudybang/alba-miniproject-test/blob/main/mydocuments/04-get_status.jpg">
-</picture>
+![Screenshot](/mydocuments/01-subscription.jpg)
+![Screenshot](/mydocuments/02-select-payment.jpg)
+![Screenshot](/mydocuments/03-back-to-mc.jpg)
+![Screenshot](/mydocuments/04-get_status.jpg)
 
