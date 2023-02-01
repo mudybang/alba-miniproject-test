@@ -28,4 +28,6 @@ password    : 12345678
 - Choose Plan A or Plan B ![Screenshot](/mydocuments/01-subscription.jpg)
 - Click Checkout then Click Proccess then Midtrans Popup Payment Selection will Show UP(Back to Dashboard When Finish) ![Screenshot](/mydocuments/02-select-payment.jpg) ![Screenshot](/mydocuments/03-back-to-mc.jpg)
 - Click Check Status to get the "Payment Status" ![Screenshot](/mydocuments/04-get_status.jpg)
+- Check Dashboard MidTrans ![Screenshot](/mydocuments/05-dahsboard-midtrans.jpg)
+
 
