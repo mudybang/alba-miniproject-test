@@ -11,11 +11,11 @@
 or visit
 
 **Demo Front End for API Transaction**
+[FrontEnd](http://alba.ombagoes.com/dashboard)
 
 email       : demo@demo.com
-password    : 12345678
 
-[FrontEnd](http://alba.ombagoes.com/dashboard)
+password    : 12345678
 
 ## Test Point 2 Create Blog
 
