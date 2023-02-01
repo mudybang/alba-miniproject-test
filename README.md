@@ -1,25 +1,27 @@
-#ALBA TECH TEST
+# ALBA TECH TEST
 
-##Test Point 1
+## Test Point 1
 
-download & import from (/mydocument/Alba_API_Sanctum.postman_collection.json)
+### download & import from 
+[PostmanCap](/mydocuments/Alba_API_Sanctum.postman_collection.json)
 
-Tree Capture
-![Screenshot](/mydocuments/postman.png)
+### Tree Capture
+![Screenshot](/mydocuments/postman.jpg)
 
 or visit
 
-Demo Front End for API Transaction
+**Demo Front End for API Transaction**
+
 email       : demo@demo.com
 password    : 12345678
 
 [FrontEnd](http://alba.ombagoes.com/dashboard)
 
-##Test Point 2 Create Blog
+## Test Point 2 Create Blog
 
 [Blog](http://alba.ombagoes.com)
 
-##Test Point 3 I choose Payment Gateway using MIDTRANS
+## Test Point 3 I choose Payment Gateway using MIDTRANS
 
 - Go to FrontEnd Demo page on Test 1
 - Navigate to Subscribe Page
