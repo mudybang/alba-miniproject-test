@@ -2,10 +2,10 @@
 
 ##Test Point 1
 
-download & import from [./mydocument/Alba_API_Sanctum.postman_collection.json]
+download & import from [mydocument/Alba_API_Sanctum.postman_collection.json]
 
 Tree Capture
-![Screenshot](mydocuments/screenshot.png)
+![Screenshot](mydocuments/postman.png)
 
 or visit
 
@@ -13,11 +13,11 @@ Demo Front End for API Transaction
 email       : demo@demo.com
 password    : 12345678
 
-[OmBagoes.COM](http://alba.ombagoes.com/dashboard)
+[FrontEnd](http://alba.ombagoes.com/dashboard)
 
 ##Test Point 2 Create Blog
 
-[OmBagoes.COM](http://alba.ombagoes.com)
+[Blog](http://alba.ombagoes.com)
 
 ##Test Point 3 I choose Payment Gateway using MIDTRANS
 
@@ -31,6 +31,6 @@ password    : 12345678
   <source media="(prefers-color-scheme: light)" srcset="mydocuments/01-subscription.jpg">
   <source media="(prefers-color-scheme: light)" srcset="mydocuments/02-select-payment.jpg">
   <source media="(prefers-color-scheme: light)" srcset="mydocuments/03-back-to-mc.jpg">
-  <source media="(prefers-color-scheme: light)" srcset=/mydocuments/04-get_status.jpg">
+  <source media="(prefers-color-scheme: light)" srcset="mydocuments/04-get_status.jpg">
 </picture>
 
